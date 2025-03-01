@@ -20,13 +20,13 @@ Welcome to my **Frontend Mini Projects** repository! This collection includes sm
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/frontend-mini-projects.git
+   git clone https://github.com/AryanKumar231/Bundle-Of-Code.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd frontend-mini-projects
+   cd folder-name(like Doremon)
    ```
 
 3. Open the desired project in your browser:
